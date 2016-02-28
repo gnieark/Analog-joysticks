@@ -6,6 +6,8 @@ T 43900 49500 5 10 0 0 0 0 1
 device=RESISTOR
 T 43800 49400 5 10 1 1 0 0 1
 refdes=R?
+T 43600 49100 5 10 1 1 0 0 1
+footprint=RES-1016P-630L-240D__Yageo-MFR-25.fp
 }
 C 43600 48300 1 0 0 resistor-1.sym
 {
@@ -13,6 +15,8 @@ T 43900 48700 5 10 0 0 0 0 1
 device=RESISTOR
 T 43800 48600 5 10 1 1 0 0 1
 refdes=R?
+T 43600 48300 5 10 1 1 0 0 1
+footprint=RES-1016P-630L-240D__Yageo-MFR-25.fp
 }
 C 43600 47700 1 0 0 resistor-1.sym
 {
@@ -20,6 +24,8 @@ T 43900 48100 5 10 0 0 0 0 1
 device=RESISTOR
 T 43800 48000 5 10 1 1 0 0 1
 refdes=R?
+T 43600 47700 5 10 1 1 0 0 1
+footprint=RES-1016P-630L-240D__Yageo-MFR-25.fp
 }
 C 43600 47100 1 0 0 resistor-1.sym
 {
@@ -27,6 +33,8 @@ T 43900 47500 5 10 0 0 0 0 1
 device=RESISTOR
 T 43800 47400 5 10 1 1 0 0 1
 refdes=R?
+T 43600 47100 5 10 1 1 0 0 1
+footprint=RES-1016P-630L-240D__Yageo-MFR-25.fp
 }
 C 43600 46400 1 0 0 resistor-1.sym
 {
@@ -34,6 +42,8 @@ T 43900 46800 5 10 0 0 0 0 1
 device=RESISTOR
 T 43800 46700 5 10 1 1 0 0 1
 refdes=R?
+T 43600 46400 5 10 1 1 0 0 1
+footprint=RES-1016P-630L-240D__Yageo-MFR-25.fp
 }
 C 43600 45600 1 0 0 resistor-1.sym
 {
@@ -41,6 +51,8 @@ T 43900 46000 5 10 0 0 0 0 1
 device=RESISTOR
 T 43800 45900 5 10 1 1 0 0 1
 refdes=R?
+T 43600 45600 5 10 1 1 0 0 1
+footprint=RES-1016P-630L-240D__Yageo-MFR-25.fp
 }
 C 49300 47500 1 0 0 resistor-1.sym
 {
@@ -48,6 +60,8 @@ T 49600 47900 5 10 0 0 0 0 1
 device=RESISTOR
 T 49500 47800 5 10 1 1 0 0 1
 refdes=R?
+T 49300 47500 5 10 1 1 0 0 1
+footprint=RES-1016P-630L-240D__Yageo-MFR-25.fp
 }
 C 44600 49100 1 0 0 switch-pushbutton-nc-1.sym
 {
@@ -55,6 +69,8 @@ T 44150 48900 5 10 0 0 0 0 1
 device=SWITCH_PUSHBUTTON_NC
 T 45000 49450 5 10 1 1 0 0 1
 refdes=S?
+T 44600 49100 5 10 1 1 0 0 1
+footprint=SW__Panasonic_EVQQ2_Series
 }
 C 44600 48300 1 0 0 switch-pushbutton-nc-1.sym
 {
@@ -62,6 +78,8 @@ T 44150 48100 5 10 0 0 0 0 1
 device=SWITCH_PUSHBUTTON_NC
 T 45000 48650 5 10 1 1 0 0 1
 refdes=S?
+T 44600 48300 5 10 1 1 0 0 1
+footprint=SW__Panasonic_EVQQ2_Series
 }
 C 44600 47700 1 0 0 switch-pushbutton-nc-1.sym
 {
@@ -69,6 +87,8 @@ T 44150 47500 5 10 0 0 0 0 1
 device=SWITCH_PUSHBUTTON_NC
 T 45000 48050 5 10 1 1 0 0 1
 refdes=S?
+T 44600 47700 5 10 1 1 0 0 1
+footprint=SW__Panasonic_EVQQ2_Series
 }
 C 44600 47100 1 0 0 switch-pushbutton-nc-1.sym
 {
@@ -76,6 +96,8 @@ T 44150 46900 5 10 0 0 0 0 1
 device=SWITCH_PUSHBUTTON_NC
 T 45000 47450 5 10 1 1 0 0 1
 refdes=S?
+T 44600 47100 5 10 1 1 0 0 1
+footprint=SW__Panasonic_EVQQ2_Series
 }
 C 44600 46400 1 0 0 switch-pushbutton-nc-1.sym
 {
@@ -83,6 +105,8 @@ T 44150 46200 5 10 0 0 0 0 1
 device=SWITCH_PUSHBUTTON_NC
 T 45000 46750 5 10 1 1 0 0 1
 refdes=S?
+T 44600 46400 5 10 1 1 0 0 1
+footprint=SW__Panasonic_EVQQ2_Series
 }
 C 44600 45600 1 0 0 switch-pushbutton-nc-1.sym
 {
@@ -90,6 +114,8 @@ T 44150 45400 5 10 0 0 0 0 1
 device=SWITCH_PUSHBUTTON_NC
 T 45000 45950 5 10 1 1 0 0 1
 refdes=S?
+T 44600 45600 5 10 1 1 0 0 1
+footprint=SW__Panasonic_EVQQ2_Series
 }
 C 41200 47500 1 0 0 5V-plus-1.sym
 N 43600 47500 43600 47800 4
@@ -122,5 +148,7 @@ T 49300 45500 5 10 0 0 0 0 1
 device=OUTPUT
 T 49300 45500 5 10 1 1 0 0 1
 refdes=A0
+T 49300 45200 5 10 1 1 0 0 1
+footprint=hard-hex-standoff-2
 }
 C 50100 47300 1 0 0 gnd-1.sym
