@@ -1,9 +1,9 @@
 difference(){
 	union(){
-		linear_extrude (height=3)
+		linear_extrude (height=4)
 			import (file="profils.dxf", layer="borders", $fn=200);
 
-		translate([0,0,2.99])
+		translate([0,0,3.99])
 			linear_extrude (height=2)
 					    import (file="profils.dxf", layer="tranche", $fn=200);
 	}
