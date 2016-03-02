@@ -1,0 +1,10 @@
+bouton	| analogread
+
+aucun	| 1023
+haut	| 20
+bas	| 9
+gauche	| 60
+droite	| 705
+
+haut 2	| 183
+bas2	| 510
